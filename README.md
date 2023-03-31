@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik Pałatyński</h1>
-<h3 align="center">PLC Programmer/Roboticist and self study Frontend developer</h3>
+<h3 align="center">PLC Programmer/Roboticist </h3>
 
-- 🌱 I’m currently learning **Angular and Express.js**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **palatynski.dominik@gmail.com**
 
